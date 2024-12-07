@@ -81,6 +81,14 @@ main {
     margin-right: 38px;
 }
 
+a {
+    color: rgb(209, 65, 65);
+}
+
+a:visited{
+ color: rgb(175, 95, 3);
+}
+
 footer {
     margin-top: 30px;
     text-align: center;
